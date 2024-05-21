@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_lv5_clover": {
+      "conditions": {
+        "items": [
+          {
+            "items": "customized_enhancement:lv5_clover"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:lv6_clover"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_lv5_clover"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:lv6_clover"
+    ]
+  }
+}

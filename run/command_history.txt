@@ -1,0 +1,50 @@
+/difficulty easy
+/weather clear
+/summon minecraft:wither ~ ~ ~
+/kill
+/kill 952fc08e-81be-42e6-b1f0-ed990931a255
+/summon minecraft:wither ~ ~ ~
+/kill @e[type=minecraft:wither]
+/gamemode survival
+/gamemode creative
+/time set day
+/give Player910 minecraft:diamond 64
+/give Player910 minecraft:nether_star 64
+/give Player910 customized_enhancement:magic_crystal 64
+/gamemode survival
+/gamemode creative
+/time set day
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/gamemode creative
+/gamemode survival
+/time set day
+/gamerule doDaylightCycle false
+/gamerule doWeatherCycle false
+/gamemode creative
+/clear
+/gamemode survival
+/gamemode
+/gamemode creative
+/gamemode survival
+/give Player229 stone 32
+/give Player421 minecraft:emerald 320
+/xp add Player421 100000000
+/gamemode creative
+/kill @e[type=!minecraft:player]
+/enchant @p
+/enchant @p minecraft:bane_of_arthropods
+/enchant @p minecraft:bane_of_arthropods 1
+/enchant @p minecraft:efficiency
+/enchant @p minecraft:bane_of_arthropods
+/enchant @s minecraft:efficiency 5
+/enchant @s minecraft:unbreaking 3
+/enchant @s minecraft:mending
+/enchant @s minecraft:mending 2
+/enchant @s minecraft:silk_touch 3
+/enchant @s minecraft:silk_touch

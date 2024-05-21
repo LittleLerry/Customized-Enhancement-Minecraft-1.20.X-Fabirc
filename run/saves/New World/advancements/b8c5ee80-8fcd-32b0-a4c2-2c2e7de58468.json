@@ -1,0 +1,39 @@
+{
+  "customized_enhancement:recipes/decorations/magic_crystal_block": {
+    "criteria": {
+      "has_magic_crystal": "2024-05-20 00:23:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-05-20 00:23:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-20 00:23:22 +0800"
+    },
+    "done": false
+  },
+  "customized_enhancement:recipes/misc/crystal_crafting_table": {
+    "criteria": {
+      "has_magic_crystal": "2024-05-20 00:23:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-05-20 00:24:39 +0800"
+    },
+    "done": true
+  },
+  "customized_enhancement:recipes/misc/magic_crystal_to_diamonds": {
+    "criteria": {
+      "has_magic_crystal": "2024-05-20 00:23:42 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3839
+}

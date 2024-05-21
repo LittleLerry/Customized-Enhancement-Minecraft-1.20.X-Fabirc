@@ -1,0 +1,69 @@
+{
+  "customized_enhancement:recipes/decorations/magic_crystal_block": {
+    "criteria": {
+      "has_magic_crystal": "2024-05-20 00:00:25 +0800"
+    },
+    "done": true
+  },
+  "customized_enhancement:recipes/misc/s_clover": {
+    "criteria": {
+      "has_lv6_clover": "2024-05-19 23:59:15 +0800"
+    },
+    "done": true
+  },
+  "customized_enhancement:recipes/misc/ssr_clover": {
+    "criteria": {
+      "has_sss_clover": "2024-05-19 23:59:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-05-19 23:59:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-05-19 23:59:43 +0800"
+    },
+    "done": true
+  },
+  "customized_enhancement:recipes/misc/ss_clover": {
+    "criteria": {
+      "has_s_clover": "2024-05-19 23:59:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-19 23:59:14 +0800"
+    },
+    "done": false
+  },
+  "customized_enhancement:recipes/misc/crystal_crafting_table": {
+    "criteria": {
+      "has_magic_crystal": "2024-05-20 00:00:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-05-19 23:59:13 +0800"
+    },
+    "done": true
+  },
+  "customized_enhancement:recipes/misc/sss_clover": {
+    "criteria": {
+      "has_ss_clover": "2024-05-19 23:59:16 +0800"
+    },
+    "done": true
+  },
+  "customized_enhancement:recipes/misc/magic_crystal_to_diamonds": {
+    "criteria": {
+      "has_magic_crystal": "2024-05-20 00:00:25 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3839
+}

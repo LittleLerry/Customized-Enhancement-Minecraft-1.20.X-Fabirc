@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "com/example/mixin/ExampleMixin": {
+      "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
+    },
+    "com/example/mixin/ServerPlayNetworkHandlerMixin": {
+      "onRenameItem(Lnet/minecraft/network/packet/c2s/play/RenameItemC2SPacket;)V": "Lnet/minecraft/class_3244;method_12060(Lnet/minecraft/class_2855;)V"
+    },
+    "com/example/mixin/registerDefaultsMixin": {
+      "registerDefaults(Lnet/minecraft/recipe/BrewingRecipeRegistry$Builder;)V": "Lnet/minecraft/class_1845;method_59699(Lnet/minecraft/class_1845$class_9665;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/example/mixin/ExampleMixin": {
+        "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
+      },
+      "com/example/mixin/ServerPlayNetworkHandlerMixin": {
+        "onRenameItem(Lnet/minecraft/network/packet/c2s/play/RenameItemC2SPacket;)V": "Lnet/minecraft/class_3244;method_12060(Lnet/minecraft/class_2855;)V"
+      },
+      "com/example/mixin/registerDefaultsMixin": {
+        "registerDefaults(Lnet/minecraft/recipe/BrewingRecipeRegistry$Builder;)V": "Lnet/minecraft/class_1845;method_59699(Lnet/minecraft/class_1845$class_9665;)V"
+      }
+    }
+  }
+}

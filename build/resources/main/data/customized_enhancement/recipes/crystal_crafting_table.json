@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "customized_enhancement:magic_crystal"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "pattern": [
+    "OOO",
+    "OMO",
+    "OOO"
+  ],
+  "result": {
+    "count": 1,
+    "id": "customized_enhancement:crystal_crafting_table"
+  }
+}

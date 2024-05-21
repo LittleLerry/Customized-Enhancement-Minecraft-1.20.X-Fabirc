@@ -1,0 +1,5 @@
+// 1.20.6	2024-05-20T13:13:42.047616	customized_enhancement/Block Loot Tables
+f41deabdab933dd386fd0deec65f69f589bea72b data/customized_enhancement/loot_tables/blocks/crystal_crafting_table.json
+f05e990ef2f100d558809caad2382d366df44508 data/customized_enhancement/loot_tables/blocks/magic_crystal_ore.json
+112bed00f9e1adf8346a67d80ca7a518004b0411 data/customized_enhancement/loot_tables/blocks/enhancement_table_block.json
+abbf4dd6be1d8e81531d3bd247526ebcf2fd521b data/customized_enhancement/loot_tables/blocks/magic_crystal_block.json

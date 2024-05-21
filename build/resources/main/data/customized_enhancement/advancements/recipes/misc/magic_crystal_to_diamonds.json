@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_magic_crystal": {
+      "conditions": {
+        "items": [
+          {
+            "items": "customized_enhancement:magic_crystal"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:magic_crystal_to_diamonds"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_magic_crystal"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:magic_crystal_to_diamonds"
+    ]
+  }
+}

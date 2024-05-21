@@ -1,0 +1,64 @@
+[13:13:36] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.20.6 with Fabric Loader 0.15.11
+[13:13:36] [main/INFO] (FabricLoader) Loading 42 mods:
+	- customized_enhancement 1.0.0
+	- fabric-api 0.98.0+1.20.6
+	- fabric-api-base 0.4.40+80f8cf51b0
+	- fabric-api-lookup-api-v1 1.6.59+e9d2a72bb0
+	- fabric-biome-api-v1 13.0.25+be5d88beb0
+	- fabric-block-api-v1 1.0.20+6dfe4c9bb0
+	- fabric-block-view-api-v2 1.0.8+80f8cf51b0
+	- fabric-command-api-v1 1.2.45+f71b366fb0
+	- fabric-command-api-v2 2.2.24+80f8cf51b0
+	- fabric-commands-v0 0.2.62+df3654b3b0
+	- fabric-content-registries-v0 8.0.5+b82b2392b0
+	- fabric-convention-tags-v1 2.0.4+7f945d5bb0
+	- fabric-convention-tags-v2 2.1.0+70fd1b46b0
+	- fabric-crash-report-info-v1 0.2.27+80f8cf51b0
+	- fabric-data-attachment-api-v1 1.1.16+2a2c66b6b0
+	- fabric-data-generation-api-v1 19.1.0+ad474493b0
+	- fabric-dimensions-v1 2.1.68+94793913b0
+	- fabric-entity-events-v1 1.6.8+e9d2a72bb0
+	- fabric-events-interaction-v0 0.7.6+c5fc38b3b0
+	- fabric-game-rule-api-v1 1.0.50+80f8cf51b0
+	- fabric-gametest-api-v1 1.3.17+1172e897b0
+	- fabric-item-api-v1 8.2.0+5bcea88ab0
+	- fabric-item-group-api-v1 4.0.39+aae0949ab0
+	- fabric-lifecycle-events-v1 2.3.4+c5fc38b3b0
+	- fabric-loot-api-v2 3.0.5+97f703dab0
+	- fabric-message-api-v1 6.0.10+109a837cb0
+	- fabric-networking-api-v1 4.0.8+0dca0349b0
+	- fabric-object-builder-api-v1 15.1.4+c5fc38b3b0
+	- fabric-particles-v1 4.0.0+c5fc38b3b0
+	- fabric-recipe-api-v1 5.0.3+c5fc38b3b0
+	- fabric-registry-sync-v0 5.0.16+ad474493b0
+	- fabric-rendering-data-attachment-v1 0.3.46+73761d2eb0
+	- fabric-rendering-fluids-v1 3.1.3+2c869dedb0
+	- fabric-resource-conditions-api-v1 4.1.0+83154f1bb0
+	- fabric-resource-loader-v0 1.1.0+c0e5481fb0
+	- fabric-screen-handler-api-v1 1.3.73+8c7b71c2b0
+	- fabric-transfer-api-v1 5.1.6+c5fc38b3b0
+	- fabric-transitive-access-wideners-v1 6.0.10+74e2f560b0
+	- fabricloader 0.15.11
+	- java 21
+	- minecraft 1.20.6
+	- mixinextras 0.3.5
+[13:13:36] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/Users/zxzhang/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.13.3+mixin.0.8.5/9527e6b0d2449408958fd1302594dc65ec5ade9c/sponge-mixin-0.13.3+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[13:13:37] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[13:13:37] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[13:13:37] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[13:13:37] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[13:13:41] [main/INFO] (FabricDataGenHelper) Running data generator for customized_enhancement
+[13:13:41] [main/INFO] (Minecraft) Starting provider: customized_enhancement/Tags for minecraft:block
+[13:13:41] [main/INFO] (Minecraft) customized_enhancement/Tags for minecraft:block finished after 147 ms
+[13:13:41] [main/INFO] (Minecraft) Starting provider: customized_enhancement/Tags for minecraft:item
+[13:13:41] [main/INFO] (Minecraft) customized_enhancement/Tags for minecraft:item finished after 0 ms
+[13:13:41] [main/INFO] (Minecraft) Starting provider: customized_enhancement/Block Loot Tables
+[13:13:42] [main/INFO] (Minecraft) customized_enhancement/Block Loot Tables finished after 5 ms
+[13:13:42] [main/INFO] (Minecraft) Starting provider: customized_enhancement/Model Definitions
+[13:13:42] [main/INFO] (Minecraft) customized_enhancement/Model Definitions finished after 21 ms
+[13:13:42] [main/INFO] (Minecraft) Starting provider: customized_enhancement/Recipes
+[13:13:42] [main/INFO] (Minecraft) customized_enhancement/Recipes finished after 19 ms
+[13:13:42] [main/INFO] (Minecraft) Starting provider: customized_enhancement/Tags for minecraft:point_of_interest_type
+[13:13:42] [main/INFO] (Minecraft) customized_enhancement/Tags for minecraft:point_of_interest_type finished after 0 ms
+[13:13:42] [main/INFO] (Minecraft) All providers took: 194 ms
+[13:13:42] [main/INFO] (Minecraft) Caching: total files: 50, old count: 44, new count: 51, removed stale: 0, written: 9

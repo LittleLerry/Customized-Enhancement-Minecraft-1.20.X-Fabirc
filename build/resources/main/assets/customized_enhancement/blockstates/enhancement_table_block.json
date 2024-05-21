@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "customized_enhancement:block/enhancement_table_block"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "item.customized_enhancement.magic_crystal": "Magic Crystal",
+  "item.customized_enhancement.lv4_clover": "Lv.4 Clover",
+  "item.customized_enhancement.lv5_clover": "Lv.5 Clover",
+  "item.customized_enhancement.lv6_clover": "Lv.6 Clover",
+  "item.customized_enhancement.s_clover": "S Clover",
+  "item.customized_enhancement.ss_clover": "SS Clover",
+  "item.customized_enhancement.sss_clover": "SSS Clover",
+  "item.customized_enhancement.ssr_clover": "SSR Clover",
+  "item.customized_enhancement.lucky_clover_chest": "Lucky Clover Chest",
+
+  "entity.minecraft.villager.crystal_master": "Crystal Master",
+
+
+  "item.minecraft.potion.effect.lv4_5_clover_potion": "Basic Potion of Good Luck",
+  "item.minecraft.splash_potion.effect.lv4_5_clover_potion": "Basic Splash Potion of Good Luck",
+  "item.minecraft.lingering_potion.effect.lv4_5_clover_potion": "Basic Lingering Potion of Good Luck",
+
+  "item.minecraft.potion.effect.lv6_s_clover_potion": "Enhanced Potion of Good Luck",
+  "item.minecraft.splash_potion.effect.lv6_s_clover_potion": "Enhanced Splash Potion of Good Luck",
+  "item.minecraft.lingering_potion.effect.lv6_s_clover_potion": "Enhanced Lingering Potion of Good Luck",
+
+  "item.minecraft.potion.effect.lvss_sss_clover_potion": "Superior Potion of Good Luck",
+  "item.minecraft.splash_potion.effect.lvss_sss_clover_potion": "Superior Splash Potion of Good Luck",
+  "item.minecraft.lingering_potion.effect.lvss_sss_clover_potion": "Superior Lingering Potion of Good Luck",
+
+  "item.minecraft.potion.effect.ssr_clover_potion": "Supreme Potion of Good Luck",
+  "item.minecraft.splash_potion.effect.ssr_clover_potion": "Supreme Splash Potion of Good Luck",
+  "item.minecraft.lingering_potion.effect.ssr_clover_potion": "Supreme Lingering Potion of Good Luck",
+
+  "item.minecraft.potion.effect.magic_crystal_potion_potion": "Magic Potion of Good Luck",
+  "item.minecraft.splash_potion.effect.magic_crystal_potion_potion": "Magic Splash Potion of Good Luck",
+  "item.minecraft.lingering_potion.effect.magic_crystal_potion_potion": "Magic Lingering Potion of Good Luck",
+
+  "block.customized_enhancement.magic_crystal_block": "Block of Magic Crystal",
+  "block.customized_enhancement.magic_crystal_ore": "Magic Crystal Ore",
+  "block.customized_enhancement.crystal_crafting_table": "Crystal Crafting Table",
+  "container.upgrade_option": "DNF Upgrade Rule",
+
+  "enhancement.itemgroup": "Enhancement items"
+}
